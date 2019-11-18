@@ -2,3 +2,5 @@ This is a file to use when testing svn -> git transfers.
 This is the original file.
 This is the file with first update.
 This is the file with the second update - a "release" update.
+This is the file with a third intermediate update.
+This is the file with a fourth update - a "release" update.
