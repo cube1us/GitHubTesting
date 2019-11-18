@@ -4,3 +4,6 @@ This is the file with first update.
 This is the file with the second update - a "release" update.
 This is the file with a third intermediate update.
 This is the file with a fourth update - a "release" update.
+This is the file with a fifth update - intermediate.
+This is the file with a SIXTH and final update - a "release" update.
+
